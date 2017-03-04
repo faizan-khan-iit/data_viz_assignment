@@ -1,4 +1,4 @@
-# Data Visualization Programming Assignment II
+# Data Visualization Programming Assignment II: Visualize Network Data
 ## Coursera course Data Visualization
 
 ### Data Used

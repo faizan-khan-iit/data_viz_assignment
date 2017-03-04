@@ -1,0 +1,4 @@
+# Please visit this GitHub repo for my assignment pics. There are five pics in total.
+
+README: https://github.com/faizan-khan-iit/data_viz_assignment#data-visualization-programming-assignment-ii
+PICS: https://github.com/faizan-khan-iit/data_viz_assignment/tree/master/assignment_pics
